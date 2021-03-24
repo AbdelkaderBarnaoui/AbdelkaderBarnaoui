@@ -13,6 +13,6 @@ I am an IT Student and Web Developer. Passionate in Network and building small p
   - While Coding, Listening Music and developing useful code. ⭐️
  
  
- ![My github stats] (https://abdelkaderbarnaoui.github.io/stat.github.io/)
+ ![My github stats] (https://stat-github-io.vercel.app/)
 
 </details>
