@@ -11,6 +11,6 @@ I am an IT Student and Web Developer. Passionate in Network and building small p
   - In mean time, I love photography, you can check my pictures on **[My Instagram](https://www.instagram.com/abdelkader.barnaoui/)**.
 
   - While Coding, Listening Music and developing useful code. ⭐️
-   https://abdelkaderbarnaoui.github.io/stat.github.io/
+  - ![My github stats](https://abdelkaderbarnaoui.github.io/stat.github.io/)
 
 </details>
