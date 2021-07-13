@@ -31,7 +31,6 @@
 <p align="center">
   <a>
     <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JayantGoel001&theme=dark&hide_border=true"/>
     <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/right.png">
   </a>
 </p>
@@ -77,99 +76,6 @@
 
 #
 
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
-</summary>
-
-<a target="_blank">
-  <img align="right" height="330px" width="500px" src="https://wakatime.com/share/@JayantGoel001/d757c83d-c3a9-424e-86f1-ce88190c9840.svg" >
-</a>
-
-<br>
-<br>
-
-<!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-697670%20lines%20of%20code-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 3,892 Contributions in the Year 2021
- > 
-> 📦 1.1 MB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 190 Public Repositories 
- > 
-> 🔑 2 Private Repositories  
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    93 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.22% 
-🌆 Daytime    274 commits    ██████░░░░░░░░░░░░░░░░░░░   27.16% 
-🌃 Evening    396 commits    █████████░░░░░░░░░░░░░░░░   39.25% 
-🌙 Night      246 commits    ██████░░░░░░░░░░░░░░░░░░░   24.38%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       147 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.57% 
-Tuesday      112 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.1% 
-Wednesday    119 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.79% 
-Thursday     117 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.6% 
-Friday       117 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.6% 
-Saturday     189 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.73% 
-Sunday       208 commits    █████░░░░░░░░░░░░░░░░░░░░   20.61%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Other                    51 hrs 1 min        ████████████████████░░░░░   81.29% 
-C++                      3 hrs 53 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.2% 
-SCSS                     2 hrs 9 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   3.43% 
-JavaScript               1 hr 47 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.86% 
-HTML                     1 hr 41 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.7%
-
-🔥 Editors: 
-Browser                  50 hrs 15 mins      ████████████████████░░░░░   80.06% 
-WebStorm                 6 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.87% 
-CLion                    4 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.6% 
-PyCharm                  1 hr 33 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.47%
-
-🐱‍💻 Projects: 
-CodeChef                 16 hrs 48 mins      ██████░░░░░░░░░░░░░░░░░░░   26.77% 
-Get-It-Done              13 hrs 42 mins      █████░░░░░░░░░░░░░░░░░░░░   21.84% 
-Basic                    10 hrs 50 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.28% 
-CodeForces               6 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.28% 
-AtCoder                  4 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.63%
-
-💻 Operating System: 
-Windows                  62 hrs 46 mins      █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in Jupyter Notebook** 
-
-```text
-Jupyter Notebook         27 repos            ██████░░░░░░░░░░░░░░░░░░░   27.27% 
-Python                   21 repos            █████░░░░░░░░░░░░░░░░░░░░   21.21% 
-C++                      12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.12% 
-JavaScript               9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-Kotlin                   7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.07%
-
-```
-
-
-
  Last Updated on 23/06/2021
 <!--END_SECTION:waka-->
 
@@ -184,19 +90,6 @@ Kotlin                   7 repos             █░░░░░░░░░░�
 
 #
 
-<p align="center">
-  <a href="https://github.com/JayantGoel001">
-    <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">  
-  </a>
-  <h4 align="center"><code>📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h4>
-</p>
-
-<p align="center">
-  <a href='https://github.com/JayantGoel001/'>
-    <img width="75%" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/metrics.svg"/>
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/metrics.detailed.svg" width="75%"/>
-  </a>
-</p>
 
 <h1>
   Connect With Me
@@ -207,41 +100,17 @@ Kotlin                   7 repos             █░░░░░░░░░░�
 
 <p align="center">
   <br>
-  <a href="https://www.linkedin.com/in/JayantGoel001/" target="_blank">
+  <a href="https://www.linkedin.com/in/abdelkaderbarnaoui/" target="_blank">
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/linkedin.svg"/></code>
   </a>
-  <a href="https://www.facebook.com/jayant.goel.12/" target="_blank">
+  <a href="https://www.facebook.com/abdelkader.ber/" target="_blank">
     <code><img  height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/facebook.svg"/></code>
   </a>
-  <a href="https://www.instagram.com/jayantgoel001/" target="_blank">
+  <a href="https://www.instagram.com/abdelkader.barnaoui/" target="_blank">
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/instagram.svg"/></code>
   </a>
-  <a href="https://twitter.com/JayantGoel001" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/twitter.svg"/></code>
-  </a>
-  <a href="https://dev.to/jayantgoel001">
-    <code><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Jayant Goel's DEV Profile" height="62" width="62"></code>
-  </a>     
 </p>
 <br/>
-
-<p align="center">
-  <a href="https://www.hackerrank.com/JayantGoel001/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/hr.png"/></code>
-  </a>
-
-  <a href="http://www.codeforces.com/profile/JayantGoel001" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/cf.png"/></code>
-  </a>
-
-  <a href="https://www.hackerearth.com/@jayantgoel001" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/he.svg"/></code>
-  </a>
-
-  <a href="https://www.codechef.com/users/jayantgoel001" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/cc.svg"/></code>
-  </a>
-</p>
 
 <br/>
 <br/>
@@ -265,6 +134,6 @@ Kotlin                   7 repos             █░░░░░░░░░░�
 
 
 -----
-**Credits**: [JayantGoel001](https://github.com/JayantGoel001)
+**Credits**: [Abdelkader Barnaoui](https://github.com/AbdelkaderBarnaoui)
 
-**Last Edited on**: 24/06/2021
+**Last Edited on**: 13/07/2021
