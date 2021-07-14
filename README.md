@@ -35,6 +35,9 @@
   </a>
 </p>
 
+<p align="center"><b>Visitor's Count</b></p>
+<p align="center"><img src="https://profile-counter.glitch.me/AbdelkaderBarnaoui/count.svg" alt="visitor badge"/></p>
+
 #
 
 <a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
